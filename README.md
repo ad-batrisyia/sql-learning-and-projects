@@ -1,4 +1,4 @@
-# My SQL learning and Projects
+# My SQL Learning and Projects
 This repository contains both my **SQL learning notes** and **hands-on SQL projects** focused on data analysis and real-world problem solving.
 
 ## 📘 Notes
