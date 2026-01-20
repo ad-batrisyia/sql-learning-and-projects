@@ -1,4 +1,4 @@
-# SQL Analysis Project on Online Sales (using Kaggle Dataset)
+# E-Commerce Transaction Analysis with SQL
 
 ## 📊 Project Overview
 This project demonstrates SQL-based data analysis using a simulated real-world e-commerce dataset from Kaggle. The objective is to clean, explore, and analyze transactional data to answer business-driven questions.
